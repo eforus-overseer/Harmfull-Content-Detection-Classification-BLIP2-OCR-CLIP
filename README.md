@@ -208,3 +208,11 @@ Several promising directions for future work we can think of from this study:
 
 [Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/harmfull-content-detection-classification-blip2-ocr-clip/) — Explore the project, its method, and available demos or original artifacts.
 <!-- demo-lab:end -->
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for Harmfull-Content-Detection-Classification-BLIP2-OCR-CLIP](assets/pixel-art.svg)
+
+A small visual signature for this repository.
