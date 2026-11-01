@@ -211,8 +211,8 @@ Several promising directions for future work we can think of from this study:
 
 
 <!-- codex-pixel-art -->
-## Pixel art
+## Project visual
 
-![Pixel art for Harmfull-Content-Detection-Classification-BLIP2-OCR-CLIP](assets/pixel-art.svg)
+![Pixel-art cover for Harmfull-Content-Detection-Classification-BLIP2-OCR-CLIP](assets/project-cover.png)
 
-A small visual signature for this repository.
+<sub>Pixel-art adaptation of [OpenMoji shield](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F6E1.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
